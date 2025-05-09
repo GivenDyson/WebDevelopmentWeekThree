@@ -1,0 +1,38 @@
+/* setting a global font style*/
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #a580ca;
+    color: #120239;
+    margin: 0;
+    padding: 0;
+}
+
+#main-header {
+    background-color: #4a1985;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.content-section {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #260656;
+    background-color: #f4f4f9;
+}
+
+.styled-image {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #260656;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: #4a1985;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
+}
